@@ -159,14 +159,6 @@ einen sogenannten "Merge Commit" angelegt hat, in dem die Änderungen aus deinem
 Feature-Branch in den Haupt-Branch gelangt sind. Damit hast du den GitHub
 Workflow einmal durchgespielt.
 
-## Merge Conflicts
-
-// TODO
-
-## Repositories Forken
-
-// TODO
-
 ## Kontrollfragen
 
 // TODO
